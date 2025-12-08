@@ -1,5 +1,5 @@
 # Flutter WhatsApp UI Clone
-
+p
 A highly responsive and clean WhatsApp UI clone built using Flutter. This project focuses on replicating WhatsApp's user interface, navigation, and layout interactions using modern Flutter practices. It is suitable for beginners looking to understand mobile UI cloning as well as developers exploring scalable Flutter architectures.
 
 ## Key Features
